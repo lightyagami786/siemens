@@ -1,4 +1,10 @@
 hola amigos!
+<<<<<<< HEAD
 hello rishab
 hello rishabh
 hello mogprek
+=======
+hello Moghasha
+hello Preksha
+i am fine
+>>>>>>> 97e4b711ffb9651563235d194977a03c0049392a
